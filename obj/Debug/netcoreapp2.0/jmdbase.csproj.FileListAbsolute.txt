@@ -1,0 +1,12 @@
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\bin\Debug\netcoreapp2.0\JMDBase.deps.json
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\bin\Debug\netcoreapp2.0\JMDBase.runtimeconfig.json
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\bin\Debug\netcoreapp2.0\JMDBase.runtimeconfig.dev.json
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\bin\Debug\netcoreapp2.0\JMDBase.dll
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\bin\Debug\netcoreapp2.0\JMDBase.pdb
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\obj\Debug\netcoreapp2.0\jmdbase.csprojAssemblyReference.cache
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\obj\Debug\netcoreapp2.0\jmdbase.csproj.CoreCompileInputs.cache
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\obj\Debug\netcoreapp2.0\jmdbase.AssemblyInfoInputs.cache
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\obj\Debug\netcoreapp2.0\jmdbase.AssemblyInfo.cs
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\obj\Debug\netcoreapp2.0\JMDBase.dll
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\obj\Debug\netcoreapp2.0\JMDBase.pdb

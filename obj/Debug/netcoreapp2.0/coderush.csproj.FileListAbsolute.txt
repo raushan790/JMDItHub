@@ -1,0 +1,11 @@
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\bin\Debug\netcoreapp2.0\coderush.deps.json
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\bin\Debug\netcoreapp2.0\coderush.runtimeconfig.json
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\bin\Debug\netcoreapp2.0\coderush.runtimeconfig.dev.json
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\bin\Debug\netcoreapp2.0\coderush.dll
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\bin\Debug\netcoreapp2.0\coderush.pdb
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\obj\Debug\netcoreapp2.0\coderush.csproj.CoreCompileInputs.cache
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\obj\Debug\netcoreapp2.0\coderush.AssemblyInfoInputs.cache
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\obj\Debug\netcoreapp2.0\coderush.AssemblyInfo.cs
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\obj\Debug\netcoreapp2.0\coderush.dll
+D:\R&D\Asp.Net-User-Role-Membership-Example-master\Asp.Net-User-Role-Membership-Example-master\coderush\obj\Debug\netcoreapp2.0\coderush.pdb
