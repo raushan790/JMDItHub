@@ -13680,11 +13680,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\R&D\\Asp.Net-User-Role-Membership-Example-master\\Asp.Net-User-Role-Membership-Example-master\\coderush\\jmdbase.csproj",
+      "projectUniqueName": "C:\\Users\\raush\\Desktop\\GitLab\\jmdbase\\jmdbase.csproj",
       "projectName": "JMDBase",
-      "projectPath": "D:\\R&D\\Asp.Net-User-Role-Membership-Example-master\\Asp.Net-User-Role-Membership-Example-master\\coderush\\jmdbase.csproj",
+      "projectPath": "C:\\Users\\raush\\Desktop\\GitLab\\jmdbase\\jmdbase.csproj",
       "packagesPath": "C:\\Users\\raush\\.nuget\\packages\\",
-      "outputPath": "D:\\R&D\\Asp.Net-User-Role-Membership-Example-master\\Asp.Net-User-Role-Membership-Example-master\\coderush\\obj\\",
+      "outputPath": "C:\\Users\\raush\\Desktop\\GitLab\\jmdbase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
